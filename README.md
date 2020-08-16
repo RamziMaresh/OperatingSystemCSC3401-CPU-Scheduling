@@ -80,10 +80,5 @@ Give an explanation as to why this is better or worst than other algorithms you'
 * **3rd algorithm**,  include the .cpp file to use as comparison and the 
 * **analysis.md** file.
 
-4. Very **important to note**, to include the **names** and **Matric ID no** of all your group members. Otherwise, your submission is not counted. Each group can only have a maximum of **4 people**. 
 
-5. Go into Google classroom, and submit a link to your github repository. 
 
-# Hints
-
-Refer to https://www.studytonight.com/operating-system/cpu-scheduling
